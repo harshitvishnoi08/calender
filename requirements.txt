@@ -1,0 +1,9 @@
+streamlit
+google-api-python-client
+oauth2client
+pytz
+langchain
+langgraph
+langchain-core
+python-dotenv
+requests
